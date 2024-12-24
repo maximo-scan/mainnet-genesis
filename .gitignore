@@ -1,0 +1,13 @@
+database/*
+venv/*
+websocket/node_modules
+
+jwtsecret
+miner.json
+etstats
+
+execution.service
+password.txt
+privatekey-miner.key
+dep.sh
+node.sh
