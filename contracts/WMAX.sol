@@ -16,7 +16,7 @@
 pragma solidity ^0.4.18;
 
 contract WMAX9 {
-    string public name     = "Wrapped Maximos";
+    string public name     = "Wrapped Maximo";
     string public symbol   = "WMAX";
     uint8  public decimals = 18;
 
